@@ -8,6 +8,6 @@
 #include "utils.h"
 
 int main(int argc, char *args[]) {
-    char **ss = s_split("测试abcdfed","fed");
+    printf("Hello,world");
     return 0;
 }
